@@ -4,6 +4,10 @@
   height: 448px;
 }
 
+.extenze {
+  height: fit-content;
+}
+
 .banner__contents {
   margin-left: 30px;
   padding-top: 140px;
