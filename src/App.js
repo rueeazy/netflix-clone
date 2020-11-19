@@ -10,7 +10,6 @@ function App() {
     <div className="app">
       <Navbar />
       <Banner />
-      {/* banner */}
       <Row title="TRENDING NOW" fetchUrl={requests.fetchTrending} isLargeRow />
       <Row
         title="NETFLIX ORIGINALS"
