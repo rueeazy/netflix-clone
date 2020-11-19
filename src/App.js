@@ -6,7 +6,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Banner />
       {/* banner */}
       <Row title="TRENDING NOW" fetchUrl={requests.fetchTrending} isLargeRow />
