@@ -2,6 +2,8 @@
 
 Netflix Clone - React Web App
 
+[Live App](https://netflix-clone-60fb2.web.app/)
+
 ## Motivation
 
 This project served as practice to build a React application hosted on Google Firebase. It also served as practice working with external API's and displaying data.
